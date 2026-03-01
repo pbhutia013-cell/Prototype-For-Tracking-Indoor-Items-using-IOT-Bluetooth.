@@ -1,0 +1,2 @@
+# Prototype-For-Tracking-Indoor-Items-using-IOT-Bluetooth.
+“This project focuses on tracking indoor items using IoT and Bluetooth technologyThis project is an app for tracking indoor items using IoT and Bluetooth. By attaching Bluetooth tags to objects, the app helps users locate them easily. The prototype produces a beep sound and shows the distance to the item in real-time, within the range of Bluetooth.
